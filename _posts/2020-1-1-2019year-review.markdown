@@ -5,7 +5,7 @@ date: 2020-1-1T01:24:08.000Z
 categories: update
 ---
 
-<img src="/images/fulls/07.jpg" class="fit image">
+<img src="https://github.com/arhrina/arhrina.github.io/blob/master/images/fulls/08.JPG?raw=true" class="fit image">
 
 2019년 준비하던 전산직 공무원 시험을 집어치우고 더 늦기 전에 다른 길을 찾자
 
