@@ -2,7 +2,7 @@ locale: "en-US, KR, FR, JP"
 title: "Arhrina Develop & Diary Blog" # Title of your site
 url: "https://arhrina.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-google_analytics_key: ""
+google_analytics_key: "UA-155188335-1"
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name: Your Name
-  email: your-email@domain.com
+  name: "Minwoo, Kim"
+  email: hyoukim@naver.com
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
