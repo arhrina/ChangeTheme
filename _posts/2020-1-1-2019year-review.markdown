@@ -2,7 +2,7 @@
 layout: post
 title: 2019년 돌아보기
 date: 2020-1-1T01:24:08.000Z
-categories: update
+categories: diary
 ---
 
 <img src="https://github.com/arhrina/arhrina.github.io/blob/master/images/fulls/08.JPG?raw=true" class="fit image">
