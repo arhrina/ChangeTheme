@@ -2469,7 +2469,7 @@
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 15%;
+		width: 25%;
 	}
 
 		#header strong, #header b {
@@ -2500,7 +2500,7 @@
 		padding: 0 4em 6em 0;
 		position: fixed;
 		text-align: right;
-		width: 35%;
+		width: 25%;
 	}
 
 		#footer .icons {
